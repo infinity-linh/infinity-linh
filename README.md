@@ -22,7 +22,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=infinity-linh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=infinity-linh&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
  -->
- <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
