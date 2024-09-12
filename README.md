@@ -12,7 +12,7 @@
 <!-- # <img src="https://github.com/infinity-linh/infinity-linh/assets/70009274/80a1c66c-7109-4017-b788-918b1dfce9e1" alt="Skill" width="35" height="35">  -->
 ## 📊 Skill:
 <📘> Self-learning, independent work, teamwork, and problem-solving skills<br>
-<🌐> English proficiency: B1 level<br>
+<🌐> Proficiency level above B1<br>
 <💻> Experienced in programming with Python and C/C++<br>
 <📡> Experienced in working with MQTT protocols, sockets, socket.io, and APIs<br>
 <🛠️> Experienced with frameworks and libraries such as PyTorch, TensorFlow, OpenCV, etc.<br>
